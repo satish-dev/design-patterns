@@ -1,4 +1,5 @@
 <?php
+require_once 'error_reporting.php';
 /**
  * Singleton class
  */

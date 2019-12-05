@@ -1,1 +1,1 @@
-# Multiton
+# Strategy & Decorator Patterns
