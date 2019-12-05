@@ -49,7 +49,7 @@ Following will be the output of the above example:-
 <img src="../images/singleTon.png" height="80%">
 <br/>
 <div>	
-  <span><a href ="https://github.com/satish-dev/design-patterns/blob/master/documentation/Introduction.md" >Next (Design Patterns)</a></span>
+  <span><a href ="https://github.com/satish-dev/design-patterns/blob/master/Documentation/Introduction.md" >Next (Design Patterns)</a></span>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
