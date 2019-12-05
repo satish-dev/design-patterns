@@ -17,5 +17,5 @@ Following are the desing patterns are available :-
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;
-	<span><a href ="https://github.com/satish-dev/design-patterns/blob/master/documentation/SingleTon.md" >Next (Singleton)</a> </span>
+	<span><a href ="https://github.com/satish-dev/design-patterns/blob/master/documentation/Singleton.md" >Next (Singleton)</a> </span>
 </div>
