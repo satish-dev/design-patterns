@@ -1,5 +1,5 @@
 <?php
-// require_once 'error_reporting.php';
+require_once 'error_reporting.php';
 abstract class FactoryAbstract 
 {
     protected static $instances = array();

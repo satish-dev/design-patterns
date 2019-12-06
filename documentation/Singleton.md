@@ -98,8 +98,10 @@ Following will be the output of the above example:-
 <br/>
 <img src="../images/multiTon.png" height="80%">
 <br/>
+*Note: It will create the instance of the class equal to the number of inheritance of the class*
+**Single ton and multiton comes under the Creational patterns**
 <div>	
-  <span><a href ="https://github.com/satish-dev/design-patterns/blob/master/documentation/Introduction.md" >Next (Design Patterns)</a></span>
+  <span><a href ="https://github.com/satish-dev/design-patterns/blob/master/documentation/Introduction.md" >Previous (Design Patterns)</a></span>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
