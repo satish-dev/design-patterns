@@ -3,8 +3,6 @@
 * *Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from the clients that use it*
 * *Capture the absraction in an interface, bury implementation details in derived classes.*
 Below image will let you know about the idea of strategy design pattern
-<br/>
-<img src="../images/strategy.png" height="80%">
 ```
 <?php
 class StrategyContext
