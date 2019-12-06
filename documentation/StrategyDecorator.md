@@ -7,6 +7,7 @@ Below image will let you know about the idea of strategy design pattern
 <img src="../images/strategy.png" height="80%">
 <br/>
 **Example**:-
+<br/>
 ```
 <?php
 class StrategyContext
