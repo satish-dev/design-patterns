@@ -2,7 +2,6 @@
 ## Strategy
 * *Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from the clients that use it*
 * *Capture the absraction in an interface, bury implementation details in derived classes.*
-Below image will let you know about the idea of strategy design pattern
 ```
 <?php
 class StrategyContext
@@ -114,6 +113,9 @@ Above code will generate the following output:-
 <br/>
 <img src="../images/strategyOutput.png" height="80%">
 <br/>
+Below image will let you know about the idea of strategy design pattern
+<br/>
+<img src="../images/strategy.png" height="80%">
 ## Decorator
 * Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 * Client-specified embellishment of a core object by recursively wrapping it.
