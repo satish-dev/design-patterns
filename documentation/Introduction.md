@@ -1,5 +1,5 @@
 # Design Patterns
-Design patterns is **description of comunicating objects and classes that are cutomized to solve a general design problem in a particular context**.
+Design patterns is **description of comunicating objects and classes that are customized to solve a general design problem in a particular context**.
 Design patterns provide a way to re-use solution to the programming problems that we en-counter every day.
 ## Design patterns can be categorized into the following:
 * *Creational Patterns*:- In software engineering, creational design patterns are design patterns that deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or added complexity to the design. Creational design patterns solve this problem by somehow controlling this object creation.
