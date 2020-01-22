@@ -3,7 +3,7 @@ require_once 'error_reporting.php';
 /**
  * Singleton class
  */
-final class Product
+final class Product extends ErrorReporting
 {
     /** 
      * @var self 
